@@ -1,0 +1,85 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+# File: C:\Users\test\source\repos\core_board.csv
+# Generated on: Tue Aug 31 11:55:21 2021
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+CLK50,Input,PIN_T2,2,B2_N0,PIN_T2,3.3-V LVTTL,,,,,
+DIR_5V[3],Output,PIN_C2,1,B1_N0,PIN_C2,3.3-V LVTTL,,,,,
+DIR_5V[2],Output,PIN_B2,1,B1_N0,PIN_B2,3.3-V LVTTL,,,,,
+DIR_5V[1],Output,PIN_B1,1,B1_N0,PIN_B1,3.3-V LVTTL,,,,,
+DIR_5V[0],Output,PIN_C1,1,B1_N0,PIN_C1,3.3-V LVTTL,,,,,
+IO_5V[31],Bidir,PIN_B20,7,B7_N0,PIN_B20,3.3-V LVTTL,,,,,
+IO_5V[30],Bidir,PIN_A20,7,B7_N0,PIN_A20,3.3-V LVTTL,,,,,
+IO_5V[29],Bidir,PIN_B17,7,B7_N1,PIN_B17,3.3-V LVTTL,,,,,
+IO_5V[28],Bidir,PIN_A19,7,B7_N0,PIN_A19,3.3-V LVTTL,,,,,
+IO_5V[27],Bidir,PIN_B16,7,B7_N1,PIN_B16,3.3-V LVTTL,,,,,
+IO_5V[26],Bidir,PIN_A18,7,B7_N0,PIN_A18,3.3-V LVTTL,,,,,
+IO_5V[25],Bidir,PIN_B15,7,B7_N1,PIN_B15,3.3-V LVTTL,,,,,
+IO_5V[24],Bidir,PIN_A17,7,B7_N1,PIN_A17,3.3-V LVTTL,,,,,
+IO_5V[23],Bidir,PIN_B14,7,B7_N1,PIN_B14,3.3-V LVTTL,,,,,
+IO_5V[22],Bidir,PIN_A16,7,B7_N1,PIN_A16,3.3-V LVTTL,,,,,
+IO_5V[21],Bidir,PIN_B13,7,B7_N1,PIN_B13,3.3-V LVTTL,,,,,
+IO_5V[20],Bidir,PIN_A15,7,B7_N1,PIN_A15,3.3-V LVTTL,,,,,
+IO_5V[19],Bidir,PIN_A14,7,B7_N1,PIN_A14,3.3-V LVTTL,,,,,
+IO_5V[18],Bidir,PIN_A13,7,B7_N1,PIN_A13,3.3-V LVTTL,,,,,
+IO_5V[17],Bidir,PIN_B10,8,B8_N0,PIN_B10,3.3-V LVTTL,,,,,
+IO_5V[16],Bidir,PIN_A10,8,B8_N0,PIN_A10,3.3-V LVTTL,,,,,
+IO_5V[15],Bidir,PIN_B9,8,B8_N0,PIN_B9,3.3-V LVTTL,,,,,
+IO_5V[14],Bidir,PIN_A9,8,B8_N0,PIN_A9,3.3-V LVTTL,,,,,
+IO_5V[13],Bidir,PIN_B8,8,B8_N0,PIN_B8,3.3-V LVTTL,,,,,
+IO_5V[12],Bidir,PIN_A8,8,B8_N0,PIN_A8,3.3-V LVTTL,,,,,
+IO_5V[11],Bidir,PIN_B7,8,B8_N0,PIN_B7,3.3-V LVTTL,,,,,
+IO_5V[10],Bidir,PIN_A7,8,B8_N0,PIN_A7,3.3-V LVTTL,,,,,
+IO_5V[9],Bidir,PIN_B6,8,B8_N0,PIN_B6,3.3-V LVTTL,,,,,
+IO_5V[8],Bidir,PIN_A6,8,B8_N0,PIN_A6,3.3-V LVTTL,,,,,
+IO_5V[7],Bidir,PIN_B5,8,B8_N1,PIN_B5,3.3-V LVTTL,,,,,
+IO_5V[6],Bidir,PIN_A5,8,B8_N0,PIN_A5,3.3-V LVTTL,,,,,
+IO_5V[5],Bidir,PIN_C4,8,B8_N1,PIN_C4,3.3-V LVTTL,,,,,
+IO_5V[4],Bidir,PIN_C3,8,B8_N1,PIN_C3,3.3-V LVTTL,,,,,
+IO_5V[3],Bidir,PIN_B4,8,B8_N1,PIN_B4,3.3-V LVTTL,,,,,
+IO_5V[2],Bidir,PIN_A4,8,B8_N1,PIN_A4,3.3-V LVTTL,,,,,
+IO_5V[1],Bidir,PIN_B3,8,B8_N1,PIN_B3,3.3-V LVTTL,,,,,
+IO_5V[0],Bidir,PIN_A3,8,B8_N1,PIN_A3,3.3-V LVTTL,,,,,
+RST_N,Input,PIN_W13,4,B4_N1,PIN_W13,3.3-V LVTTL,,,,,
+altera_reserved_tck,Input,,,,PIN_L2,,,,,,
+altera_reserved_tdi,Input,,,,PIN_L5,,,,,,
+altera_reserved_tdo,Output,,,,PIN_L4,,,,,,
+altera_reserved_tms,Input,,,,PIN_L1,,,,,,
+VGA_HSYNC,Unknown,PIN_N19,5,B5_N0,,3.3-V LVTTL,,,,,
+VGA_VSYNC,Unknown,PIN_M20,5,B5_N0,,3.3-V LVTTL,,,,,
+VGA_R[3],Unknown,PIN_C21,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_R[4],Unknown,PIN_D21,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_R[5],Unknown,PIN_N20,5,B5_N0,,3.3-V LVTTL,,,,,
+VGA_R[1],Unknown,PIN_B21,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_R[2],Unknown,PIN_B22,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_G[2],Unknown,PIN_D22,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_G[3],Unknown,PIN_E21,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_G[4],Unknown,PIN_E22,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_G[5],Unknown,PIN_F22,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_B[1],Unknown,PIN_H22,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_B[2],Unknown,PIN_H21,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_B[3],Unknown,PIN_K22,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_B[4],Unknown,PIN_J21,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_B[5],Unknown,PIN_J22,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_G[0],Unknown,PIN_C22,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_B[0],Unknown,PIN_F21,6,B6_N0,,3.3-V LVTTL,,,,,
+VGA_G[1],Unknown,PIN_L21,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_R[0],Unknown,PIN_L22,6,B6_N1,,3.3-V LVTTL,,,,,
+VGA_CLK,Unknown,PIN_M19,5,B5_N0,,3.3-V LVTTL,,,,,
+VGA_DEN,Unknown,PIN_K21,6,B6_N1,,3.3-V LVTTL,,,,,
